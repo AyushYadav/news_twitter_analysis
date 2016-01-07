@@ -1,0 +1,388 @@
+
+Array
+(
+    [responseData] => Array
+        (
+            [results] => Array
+                (
+                    [0] => Array
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=d3PBsLo_oG6UkkM-icqC2LMMjuA2M&hl=en&ned=us
+                            [content] => The internet is abuzz with the news that President <b>Barack Obama</b> shed some tears during an emotional gun-control speech on Tuesday. The president got choked up while talking about the 2012 attack at Sandy Hook Elementary School in Newton,&nbsp;...
+                            [unescapedUrl] => http://www.businessinsider.com/barack-obama-tears-crying-leadership-2016-1
+                            [url] => http%3A%2F%2Fwww.businessinsider.com%2Fbarack-obama-tears-crying-leadership-2016-1
+                            [title] => <b>Barack Obama</b> openly crying could help him - here&#39;s why people find a leader&#39;s <b>...</b>
+                            [titleNoFormatting] => Barack Obama openly crying could help him - here&#39;s why people find a leader&#39;s ...
+                            [location] => 
+                            [publisher] => Business Insider
+                            [publishedDate] => Wed, 06 Jan 2016 09:28:48 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.businessinsider.com/barack-obama-tears-crying-leadership-2016-1&cid=52779020990884&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNGYFMLJQxgBHBWYv1EH4HYGbLW3Zg
+                            [language] => en
+                            [image] => Array
+                                (
+                                    [url] => http://static3.businessinsider.com/image/568d2247e6183eee168b7028-2300-1725/rtx215fn.jpg
+                                    [tbUrl] => http://t1.gstatic.com/images?q=tbn:ANd9GcQB46zIkljDEJzPItqrGFrGZJGBLB8xthIQuRmkr1BUquSUxEmhiKpqpocO
+                                    [originalContextUrl] => http://www.businessinsider.com/barack-obama-tears-crying-leadership-2016-1
+                                    [publisher] => Business Insider
+                                    [tbWidth] => 80
+                                    [tbHeight] => 60
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [unescapedUrl] => http://www.nydailynews.com/news/national/barack-obama-praised-seeking-gun-safety-technology-article-1.2488134
+                                            [url] => http%3A%2F%2Fwww.nydailynews.com%2Fnews%2Fnational%2Fbarack-obama-praised-seeking-gun-safety-technology-article-1.2488134
+                                            [title] => <b>Barack Obama</b> praised for seeking gun safety technology that could reduce crime <b>...</b>
+                                            [titleNoFormatting] => Barack Obama praised for seeking gun safety technology that could reduce crime ...
+                                            [location] => 
+                                            [publisher] => New York Daily News
+                                            [publishedDate] => Wed, 06 Jan 2016 18:42:22 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.nydailynews.com/news/national/barack-obama-praised-seeking-gun-safety-technology-article-1.2488134&cid=52779020990884&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNGmNrPyxTWup-O2i66AgBoT202zlQ
+                                            [language] => en
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [unescapedUrl] => http://www.stuff.co.nz/world/americas/75628472/us-president-barak-obama-wants-background-checks-for-more-gun-sales
+                                            [url] => http%3A%2F%2Fwww.stuff.co.nz%2Fworld%2Famericas%2F75628472%2Fus-president-barak-obama-wants-background-checks-for-more-gun-sales
+                                            [title] => US president <b>Barak Obama</b> wants background checks for more gun sales
+                                            [titleNoFormatting] => US president Barak Obama wants background checks for more gun sales
+                                            [location] => 
+                                            [publisher] => Stuff.co.nz
+                                            [publishedDate] => Mon, 04 Jan 2016 17:04:16 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.stuff.co.nz/world/americas/75628472/us-president-barak-obama-wants-background-checks-for-more-gun-sales&cid=52779020990884&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNFTlBwfHhlBPs4r9cCG9awhtDvRYQ
+                                            [language] => en
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [unescapedUrl] => http://qz.com/586500/obama-announces-his-plan-on-gun-control/
+                                            [url] => http%3A%2F%2Fqz.com%2F586500%2Fobama-announces-his-plan-on-gun-control%2F
+                                            [title] => An emotional <b>Barack Obama</b> announced his plan on gun control
+                                            [titleNoFormatting] => An emotional Barack Obama announced his plan on gun control
+                                            [location] => 
+                                            [publisher] => Quartz
+                                            [publishedDate] => Tue, 05 Jan 2016 10:22:30 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://qz.com/586500/obama-announces-his-plan-on-gun-control/&cid=52779020990884&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNEiInwwUkfMPXf0D53fB0WLEqoAeA
+                                            [language] => en
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [unescapedUrl] => http://national.suntimes.com/national-world-news/7/72/2392682/barack-obama-gun-sellers-best-friend/
+                                            [url] => http%3A%2F%2Fnational.suntimes.com%2Fnational-world-news%2F7%2F72%2F2392682%2Fbarack-obama-gun-sellers-best-friend%2F
+                                            [title] => <b>Barack Obama</b> is a gun seller&#39;s best friend
+                                            [titleNoFormatting] => Barack Obama is a gun seller&#39;s best friend
+                                            [location] => 
+                                            [publisher] => Sun Times National
+                                            [publishedDate] => Wed, 06 Jan 2016 11:37:49 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://national.suntimes.com/national-world-news/7/72/2392682/barack-obama-gun-sellers-best-friend/&cid=52779020990884&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNHGBpu2Jv_9Z_QE1B7J9XUfmHeW6g
+                                            [language] => en
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [unescapedUrl] => http://www.newsweek.com/obama-transcript-gun-control-president-speech-411953
+                                            [url] => http%3A%2F%2Fwww.newsweek.com%2Fobama-transcript-gun-control-president-speech-411953
+                                            [title] => Read: Transcript of President <b>Barack Obama&#39;s</b> Speech on Gun Control
+                                            [titleNoFormatting] => Read: Transcript of President Barack Obama&#39;s Speech on Gun Control
+                                            [location] => 
+                                            [publisher] => Newsweek
+                                            [publishedDate] => Tue, 05 Jan 2016 10:56:15 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.newsweek.com/obama-transcript-gun-control-president-speech-411953&cid=52779020990884&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNEUroJX3ganlfzcMsFxRsPL54l0Xg
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => Somebody in the Pistons marketing department should not be buying drinks next time everyone goes out, or at least, give the man/woman a raise. Because this is the best All-Star campaign effort I can recall. Averaging 18.1 points and 16 rebounds a game,&nbsp;...
+                            [unescapedUrl] => http://nba.nbcsports.com/2016/01/05/pistons-mix-barack-obama-endorsement-andre-drummond-for-all-star-game/
+                            [url] => http%3A%2F%2Fnba.nbcsports.com%2F2016%2F01%2F05%2Fpistons-mix-barack-obama-endorsement-andre-drummond-for-all-star-game%2F
+                            [title] => Pistons mix <b>Barack Obama</b> endorsement of Andre Drummond for All Star game
+                            [titleNoFormatting] => Pistons mix Barack Obama endorsement of Andre Drummond for All Star game
+                            [location] => 
+                            [publisher] => NBCSports.com
+                            [publishedDate] => Tue, 05 Jan 2016 12:58:03 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://nba.nbcsports.com/2016/01/05/pistons-mix-barack-obama-endorsement-andre-drummond-for-all-star-game/&cid=52779022541467&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNHKfZBwnnc9l8lnxtzbR5iS6XBJ4g
+                            [language] => en
+                            [image] => Array
+                                (
+                                    [url] => https://nbcprobasketballtalk.files.wordpress.com/2016/01/cd05oddlnmnhy2mwmjrlzwqzntjhm2viytq1y2vly2yzocznptezzdewmmm4ywu5zme4zdjiymnjy2nkyjbhntvkmwe2-e1452149624296.jpg?w=610&h=343&crop=1
+                                    [tbUrl] => http://t2.gstatic.com/images?q=tbn:ANd9GcRb_qoxkDz1anZiQIVPbnfZLz_GbSjRpf8Rx4lQDAk2jK19YBbuQobX8ext
+                                    [originalContextUrl] => http://nba.nbcsports.com/2016/01/05/pistons-mix-barack-obama-endorsement-andre-drummond-for-all-star-game/
+                                    [publisher] => NBCSports.com
+                                    [tbWidth] => 80
+                                    [tbHeight] => 44
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=dpTcXKqWbsHOn9MtTJl73e3gZ8m9M&hl=en&ned=us
+                            [content] => The US government privately accepts that Bashar Assad will still be in power when <b>Barack Obama</b> leaves the White House, according to a leaked internal document. A timeline prepared for American officials and obtained by the Associated Press offers March&nbsp;...
+                            [unescapedUrl] => http://www.telegraph.co.uk/news/worldnews/middleeast/syria/12086159/US-admits-Bashar-al-Assad-will-outlast-Barack-Obama.html
+                            [url] => http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fworldnews%2Fmiddleeast%2Fsyria%2F12086159%2FUS-admits-Bashar-al-Assad-will-outlast-Barack-Obama.html
+                            [title] => US admits Bashar al-Assad will outlast <b>Barack Obama</b>
+                            [titleNoFormatting] => US admits Bashar al-Assad will outlast Barack Obama
+                            [location] => 
+                            [publisher] => Telegraph.co.uk
+                            [publishedDate] => Wed, 06 Jan 2016 18:26:15 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.telegraph.co.uk/news/worldnews/middleeast/syria/12086159/US-admits-Bashar-al-Assad-will-outlast-Barack-Obama.html&cid=52779024430812&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNGyzdCGKdqe3i_wjIWsLu9UCodYqg
+                            [language] => en
+                            [image] => Array
+                                (
+                                    [url] => http://i.telegraph.co.uk/multimedia/archive/03453/President_Bashar_a_3453711b.jpg
+                                    [tbUrl] => http://t3.gstatic.com/images?q=tbn:ANd9GcScOPT_lNswPgv0Bi9wOQGKDKEy6lEjkGaCrIyF_pc5aPpqMHye2NOosYCt
+                                    [originalContextUrl] => http://www.telegraph.co.uk/news/worldnews/middleeast/syria/12086159/US-admits-Bashar-al-Assad-will-outlast-Barack-Obama.html
+                                    [publisher] => Telegraph.co.uk
+                                    [tbWidth] => 80
+                                    [tbHeight] => 49
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [unescapedUrl] => http://www.theaustralian.com.au/news/world/the-times/bashar-assad-will-outlast-barack-obama-washington-accepts/news-story/e01a19f4f20e3fbe89d1f90e187dbeb1
+                                            [url] => http%3A%2F%2Fwww.theaustralian.com.au%2Fnews%2Fworld%2Fthe-times%2Fbashar-assad-will-outlast-barack-obama-washington-accepts%2Fnews-story%2Fe01a19f4f20e3fbe89d1f90e187dbeb1
+                                            [title] => Bashar Assad will outlast <b>Barack Obama</b>, Washington accepts
+                                            [titleNoFormatting] => Bashar Assad will outlast Barack Obama, Washington accepts
+                                            [location] => 
+                                            [publisher] => The Australian (blog)
+                                            [publishedDate] => Wed, 06 Jan 2016 18:37:30 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.theaustralian.com.au/news/world/the-times/bashar-assad-will-outlast-barack-obama-washington-accepts/news-story/e01a19f4f20e3fbe89d1f90e187dbeb1&cid=52779024430812&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNHOTTMYnRcBeut3WPhuooxDBioCNg
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => President <b>Barack Obama</b> seems to like his smartwatch. Fitbit surge This past March, the commander in chief was spotted wearing a Fitbit Surge, a $250 GPS-enabled wearable that tracks steps, heart rate, calories burned, and more. It also lets users see&nbsp;...
+                            [unescapedUrl] => http://www.geekwire.com/2016/smartwatch-president-barack-obama-wears/
+                            [url] => http%3A%2F%2Fwww.geekwire.com%2F2016%2Fsmartwatch-president-barack-obama-wears%2F
+                            [title] => This is the smartwatch that President <b>Barack Obama</b> wears
+                            [titleNoFormatting] => This is the smartwatch that President Barack Obama wears
+                            [location] => 
+                            [publisher] => GeekWire
+                            [publishedDate] => Fri, 01 Jan 2016 12:26:03 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.geekwire.com/2016/smartwatch-president-barack-obama-wears/&cid=52779021147771&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNGJtnaLx8zhGRXb1esBlHuomURFVw
+                            [language] => en
+                            [image] => Array
+                                (
+                                    [url] => http://www.geekwire.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-01-at-12.04.26-PM.png
+                                    [tbUrl] => http://t2.gstatic.com/images?q=tbn:ANd9GcSa0VQxpABZfKOu35SDu3cGvPuoL6WhU0_kEtpsJnpzRK_lU1ju_nc4p7oQ
+                                    [originalContextUrl] => http://www.geekwire.com/2016/smartwatch-president-barack-obama-wears/
+                                    [publisher] => GeekWire
+                                    [tbWidth] => 80
+                                    [tbHeight] => 45
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => Once again, President <b>Obama</b> is resorting to executive action to effect some small degree of change he and his counsel feel to be within his presidential purview, this time on gun control. Fourth-quarter <b>Obama</b> has been impatient and bold, circumventing&nbsp;...
+                            [unescapedUrl] => http://www.salon.com/2016/01/06/how_white_americas_fear_of_barack_obama_has_made_us_all_worse_off/
+                            [url] => http%3A%2F%2Fwww.salon.com%2F2016%2F01%2F06%2Fhow_white_americas_fear_of_barack_obama_has_made_us_all_worse_off%2F
+                            [title] => How White America&#39;s fear of <b>Barack Obama</b> has made us all worse off
+                            [titleNoFormatting] => How White America&#39;s fear of Barack Obama has made us all worse off
+                            [location] => 
+                            [publisher] => Salon
+                            [publishedDate] => Wed, 06 Jan 2016 02:52:30 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.salon.com/2016/01/06/how_white_americas_fear_of_barack_obama_has_made_us_all_worse_off/&cid=52779024347617&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNHlWZqkODIo2Bd4OEOwAvEjzws1_Q
+                            [language] => en
+                            [image] => Array
+                                (
+                                    [url] => http://media.salon.com/2016/01/barack_obama30.jpg
+                                    [tbUrl] => http://t2.gstatic.com/images?q=tbn:ANd9GcRE1_klvUuRcMTQldocFD1zKT_QX7Djoo1-db6Ixsn4jMzGqV5V9N5LlE0
+                                    [originalContextUrl] => http://www.salon.com/2016/01/06/how_white_americas_fear_of_barack_obama_has_made_us_all_worse_off/
+                                    [publisher] => Salon
+                                    [tbWidth] => 80
+                                    [tbHeight] => 53
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=djQXKDwU6tt707MiFfFSy1YYDkAfM&hl=en&ned=us
+                            [content] => That&#39;s how you do it! Aretha Franklin slayed at the 2015 Kennedy Center Honors, paying tribute to Carole King with a flawless version of &#39;(You Make Me Feel Like) A Natural Woman.&#39; The Queen of Soul had everyone feeling it, bringing even President <b>...</b>
+                            [unescapedUrl] => http://hollywoodlife.com/2015/12/30/aretha-franklin-barack-obama-cries-natural-woman-kennedy-honors-performance-video/
+                            [url] => http%3A%2F%2Fhollywoodlife.com%2F2015%2F12%2F30%2Faretha-franklin-barack-obama-cries-natural-woman-kennedy-honors-performance-video%2F
+                            [title] => Aretha Franklin Makes <b>Barack Obama</b> Cry With Powerful Performance of &#39;A Natural <b>...</b>
+                            [titleNoFormatting] => Aretha Franklin Makes Barack Obama Cry With Powerful Performance of &#39;A Natural ...
+                            [location] => 
+                            [publisher] => Hollywood Life
+                            [publishedDate] => Wed, 30 Dec 2015 06:37:30 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://hollywoodlife.com/2015/12/30/aretha-franklin-barack-obama-cries-natural-woman-kennedy-honors-performance-video/&cid=52779018399992&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNEi0xdBJQ16dejqVRORqVueHLJWhA
+                            [language] => en
+                            [image] => Array
+                                (
+                                    [url] => https://pmchollywoodlife.files.wordpress.com/2015/12/aretha-franklin-kennedy-center-honors-2015-obama-cry-ftr.jpg?w=600&h=338&crop=1
+                                    [tbUrl] => http://t2.gstatic.com/images?q=tbn:ANd9GcTiAkmYUKHXYM2aVBqM-jYVlB6XWieY0vr3VH7S9G-iPIROWnu5Yq4MouU
+                                    [originalContextUrl] => http://hollywoodlife.com/2015/12/30/aretha-franklin-barack-obama-cries-natural-woman-kennedy-honors-performance-video/
+                                    [publisher] => Hollywood Life
+                                    [tbWidth] => 80
+                                    [tbHeight] => 45
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [unescapedUrl] => http://www.newsweek.com/aretha-franklin-kennedy-center-honors-carole-king-barack-obama-409981
+                                            [url] => http%3A%2F%2Fwww.newsweek.com%2Faretha-franklin-kennedy-center-honors-carole-king-barack-obama-409981
+                                            [title] => Who&#39;s the Bigger Aretha Franklin Fan: Carole King or <b>Barack Obama</b>?
+                                            [titleNoFormatting] => Who&#39;s the Bigger Aretha Franklin Fan: Carole King or Barack Obama?
+                                            [location] => 
+                                            [publisher] => Newsweek
+                                            [publishedDate] => Wed, 30 Dec 2015 10:15:44 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.newsweek.com/aretha-franklin-kennedy-center-honors-carole-king-barack-obama-409981&cid=52779018399992&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNH0d4GrKzff2zRo3vYZOEr_gObe3g
+                                            [language] => en
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [unescapedUrl] => http://www.instyle.com/news/barack-obama-tears-aretha-franklins-performance
+                                            [url] => http%3A%2F%2Fwww.instyle.com%2Fnews%2Fbarack-obama-tears-aretha-franklins-performance
+                                            [title] => <b>Barack Obama</b> Is Moved to Tears During Aretha Franklin&#39;s Powerful Performance
+                                            [titleNoFormatting] => Barack Obama Is Moved to Tears During Aretha Franklin&#39;s Powerful Performance
+                                            [location] => 
+                                            [publisher] => InStyle
+                                            [publishedDate] => Wed, 30 Dec 2015 10:45:00 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.instyle.com/news/barack-obama-tears-aretha-franklins-performance&cid=52779018399992&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNFJpiTe9Xdvu6hwcizC76QIkm4c1A
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => Array
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => WASHINGTON - After dozens of failed attempts to undo President <b>Barack Obama&#39;s</b> health care law, the GOP-led Congress will finally put a bill on the president&#39;s desk Wednesday striking at the heart of his signature legislative achievement. Obama will <b>...</b>
+                            [unescapedUrl] => http://www.newsday.com/news/nation/obamacare-repeal-bill-to-be-sent-to-president-barack-obama-for-first-time-1.11296760
+                            [url] => http%3A%2F%2Fwww.newsday.com%2Fnews%2Fnation%2Fobamacare-repeal-bill-to-be-sent-to-president-barack-obama-for-first-time-1.11296760
+                            [title] => Obamacare repeal bill to be sent to President <b>Barack Obama</b> for first time
+                            [titleNoFormatting] => Obamacare repeal bill to be sent to President Barack Obama for first time
+                            [location] => 
+                            [publisher] => Newsday
+                            [publishedDate] => Wed, 06 Jan 2016 08:59:53 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.newsday.com/news/nation/obamacare-repeal-bill-to-be-sent-to-president-barack-obama-for-first-time-1.11296760&cid=52779021451553&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNGcaADq7JgjbRCAE7RLIFOIqE0E9A
+                            [language] => en
+                        )
+
+                    [7] => Array
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => Hundreds of thousands of people backing a campaign asking <b>Barack Obama</b> to pardon convicted murderer Steven Avery look set to be disappointed. Almost 300,000 signatures have been collected by petitions in support of the 53-year-old on the official&nbsp;...
+                            [unescapedUrl] => http://www.independent.co.uk/news/world/americas/making-a-murderer-steven-avery-cannot-be-pardoned-barack-obama-a6797016.html
+                            [url] => http%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Famericas%2Fmaking-a-murderer-steven-avery-cannot-be-pardoned-barack-obama-a6797016.html
+                            [title] => Making a Murderer: Steven Avery cannot be pardoned by <b>Barack Obama</b>
+                            [titleNoFormatting] => Making a Murderer: Steven Avery cannot be pardoned by Barack Obama
+                            [location] => 
+                            [publisher] => The Independent
+                            [publishedDate] => Tue, 05 Jan 2016 03:34:13 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.independent.co.uk/news/world/americas/making-a-murderer-steven-avery-cannot-be-pardoned-barack-obama-a6797016.html&cid=52779020762235&ei=bziOVpiYH5TLqAX6mIewAw&usg=AFQjCNFq55xZaGI_fHXmO0oEsomwo2q7qQ
+                            [language] => en
+                            [image] => Array
+                                (
+                                    [url] => http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2016/01/05/09/Steven-Avery.jpg
+                                    [tbUrl] => http://t3.gstatic.com/images?q=tbn:ANd9GcRixheEboBjNNzqbtuqYpqrgL7yZ_96U2oa3kfYgwOsQ2BnI1gLd_3U_bc
+                                    [originalContextUrl] => http://www.independent.co.uk/news/world/americas/making-a-murderer-steven-avery-cannot-be-pardoned-barack-obama-a6797016.html
+                                    [publisher] => The Independent
+                                    [tbWidth] => 80
+                                    [tbHeight] => 60
+                                )
+
+                        )
+
+                )
+
+            [cursor] => Array
+                (
+                    [pages] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [start] => 0
+                                    [label] => 1
+                                )
+
+                            [1] => Array
+                                (
+                                    [start] => 8
+                                    [label] => 2
+                                )
+
+                            [2] => Array
+                                (
+                                    [start] => 16
+                                    [label] => 3
+                                )
+
+                            [3] => Array
+                                (
+                                    [start] => 24
+                                    [label] => 4
+                                )
+
+                            [4] => Array
+                                (
+                                    [start] => 32
+                                    [label] => 5
+                                )
+
+                            [5] => Array
+                                (
+                                    [start] => 40
+                                    [label] => 6
+                                )
+
+                            [6] => Array
+                                (
+                                    [start] => 48
+                                    [label] => 7
+                                )
+
+                            [7] => Array
+                                (
+                                    [start] => 56
+                                    [label] => 8
+                                )
+
+                        )
+
+                    [estimatedResultCount] => 19029607
+                    [currentPageIndex] => 0
+                    [moreResultsUrl] => http://news.google.com/nwshp?oe=utf8&ie=utf8&source=uds&q=barak+obama&hl=en&start=0
+                )
+
+        )
+
+    [responseDetails] => 
+    [responseStatus] => 200
+)
+
