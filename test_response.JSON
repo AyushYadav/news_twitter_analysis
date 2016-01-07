@@ -1,0 +1,531 @@
+stdClass Object
+(
+    [responseData] => stdClass Object
+        (
+            [results] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=dZVtnOk-bBd1IJM6Zyo5paobBq7yM&hl=en&ned=us
+                            [content] => A powerful <b>earthquake</b> shook parts of <b>India</b>, Bangladesh, Bhutan and Myanmar at 4:35 a.m. local time Monday, leaving at least eight dead and 100 more injured, according to The Times of <b>India</b>. People rushed out of their homes before dawn on Monday&nbsp;...
+                            [unescapedUrl] => http://www.accuweather.com/en/weather-news/breaking-67-magnitude-earthquake-india-bangladesh/54586772
+                            [url] => http%3A%2F%2Fwww.accuweather.com%2Fen%2Fweather-news%2Fbreaking-67-magnitude-earthquake-india-bangladesh%2F54586772
+                            [title] => Powerful <b>earthquake</b> leaves at least 8 dead, 100 injured in <b>India</b>
+                            [titleNoFormatting] => Powerful earthquake leaves at least 8 dead, 100 injured in India
+                            [location] => 
+                            [publisher] => AccuWeather.com
+                            [publishedDate] => Sun, 03 Jan 2016 16:33:01 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.accuweather.com/en/weather-news/breaking-67-magnitude-earthquake-india-bangladesh/54586772&cid=52779022799795&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNE2d2uGVaxIB3qG4Fj_y-Wu-NbX1g
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => https://dsx.weather.com/util/image/v/D-2223665.jpg?v=at&w=485&h=273&api=7db9fe61-7414-47b5-9871-e17d87b8b6a0
+                                    [tbUrl] => http://t0.gstatic.com/images?q=tbn:ANd9GcThkdSpxZ5F2N3RFKwaggN0dUVtgHmC23XNb6AA67IRFAxyZ8X7OCwERaUZ
+                                    [originalContextUrl] => http://www.weather.com/news/news/multiple-fatalities-earthquake-hits-imphal-northeast-india
+                                    [publisher] => The Weather Channel
+                                    [tbWidth] => 80
+                                    [tbHeight] => 45
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.weather.com/news/news/multiple-fatalities-earthquake-hits-imphal-northeast-india
+                                            [url] => http%3A%2F%2Fwww.weather.com%2Fnews%2Fnews%2Fmultiple-fatalities-earthquake-hits-imphal-northeast-india
+                                            [title] => Magnitude-6.7 <b>Earthquake</b> Jolts <b>India</b>, Bangladesh Leaving At Least 13 Dead, 100 <b>...</b>
+                                            [titleNoFormatting] => Magnitude-6.7 Earthquake Jolts India, Bangladesh Leaving At Least 13 Dead, 100 ...
+                                            [location] => 
+                                            [publisher] => The Weather Channel
+                                            [publishedDate] => Mon, 04 Jan 2016 05:00:33 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.weather.com/news/news/multiple-fatalities-earthquake-hits-imphal-northeast-india&cid=52779022799795&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNH3OD0-jJ8jUAmCnVyl9tXSxApH0w
+                                            [language] => en
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.cnn.com/2016/01/03/asia/india-earthquake/index.html
+                                            [url] => http%3A%2F%2Fwww.cnn.com%2F2016%2F01%2F03%2Fasia%2Findia-earthquake%2Findex.html
+                                            [title] => Deadly <b>earthquake</b> shakes part of northeastern <b>India</b>
+                                            [titleNoFormatting] => Deadly earthquake shakes part of northeastern India
+                                            [location] => 
+                                            [publisher] => CNN
+                                            [publishedDate] => Sun, 03 Jan 2016 15:50:01 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.cnn.com/2016/01/03/asia/india-earthquake/index.html&cid=52779022799795&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNGsiTVjfHiGc0F3CvEfG911cLtDfw
+                                            [language] => en
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.livescience.com/53253-imphal-india-earthquake-explained.html
+                                            [url] => http%3A%2F%2Fwww.livescience.com%2F53253-imphal-india-earthquake-explained.html
+                                            [title] => Local Geology Makes Sunday&#39;s <b>Earthquake</b> in <b>India</b> Complex
+                                            [titleNoFormatting] => Local Geology Makes Sunday&#39;s Earthquake in India Complex
+                                            [location] => 
+                                            [publisher] => Live Science
+                                            [publishedDate] => Mon, 04 Jan 2016 11:52:30 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.livescience.com/53253-imphal-india-earthquake-explained.html&cid=52779022799795&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNHU8F2BqQgDJeCIrbFNqLJDsOsN7g
+                                            [language] => en
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.usatoday.com/story/news/2016/01/03/india-earthquake-myanmar-border/78241542/
+                                            [url] => http%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2F2016%2F01%2F03%2Findia-earthquake-myanmar-border%2F78241542%2F
+                                            [title] => Major <b>earthquake</b> hits northeast <b>India</b>
+                                            [titleNoFormatting] => Major earthquake hits northeast India
+                                            [location] => 
+                                            [publisher] => USA TODAY
+                                            [publishedDate] => Sun, 03 Jan 2016 16:43:06 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.usatoday.com/story/news/2016/01/03/india-earthquake-myanmar-border/78241542/&cid=52779022799795&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNFSGQogM0-Q50RXwK042qb0xXZfYA
+                                            [language] => en
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.bbc.com/news/world-asia-india-35219069
+                                            [url] => http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-asia-india-35219069
+                                            [title] => <b>Earthquake</b> hits <b>India&#39;s</b> Manipur state
+                                            [titleNoFormatting] => Earthquake hits India&#39;s Manipur state
+                                            [location] => 
+                                            [publisher] => BBC News
+                                            [publishedDate] => Sun, 03 Jan 2016 15:52:20 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.bbc.com/news/world-asia-india-35219069&cid=52779022799795&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNF5BYn1_TxOsdD5Q6hfffm2DoVpQQ
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=dkBo32YK9B2QiGMuwAqlL1Ef3NToM&hl=en&ned=us
+                            [content] => ... common building code that is different from the rest of <b>India</b>. The recent Itanagar deliberations on sustainable development of mountain states were part of Centre&#39;s <b>earthquake</b> risk mitigation strategy to sensitise policy-makers about &quot;the natural <b>...</b>
+                            [unescapedUrl] => http://timesofindia.indiatimes.com/india/Big-earthquake-coming-warn-MHA-experts/articleshow/50460633.cms
+                            [url] => http%3A%2F%2Ftimesofindia.indiatimes.com%2Findia%2FBig-earthquake-coming-warn-MHA-experts%2Farticleshow%2F50460633.cms
+                            [title] => Big <b>earthquake</b> coming, warn MHA experts
+                            [titleNoFormatting] => Big earthquake coming, warn MHA experts
+                            [location] => 
+                            [publisher] => Times of India
+                            [publishedDate] => Tue, 05 Jan 2016 12:12:33 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://timesofindia.indiatimes.com/india/Big-earthquake-coming-warn-MHA-experts/articleshow/50460633.cms&cid=52779024036013&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNEYpKjnSQgQigu7Gu-AIC37vqoa7A
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://timesofindia.indiatimes.com/thumb/msid-47056260,width-400,resizemode-4/47056260.jpg
+                                    [tbUrl] => http://t3.gstatic.com/images?q=tbn:ANd9GcSqQQjS6dgoRzZC-5ZWcShZKGHTk3OFmuD2QGFwSkH8irUm56XHxXkDyrg
+                                    [originalContextUrl] => http://timesofindia.indiatimes.com/india/Big-earthquake-coming-warn-MHA-experts/articleshow/50460633.cms
+                                    [publisher] => Times of India
+                                    [tbWidth] => 80
+                                    [tbHeight] => 60
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://indiatoday.intoday.in/story/earthquake-of-8-2-magnitude-might-hit-himalayas-soon-north-india-at-risk/1/564679.html
+                                            [url] => http%3A%2F%2Findiatoday.intoday.in%2Fstory%2Fearthquake-of-8-2-magnitude-might-hit-himalayas-soon-north-india-at-risk%2F1%2F564679.html
+                                            [title] => Beware North <b>India</b>! <b>Earthquake</b> of 8.2 magnitude might hit the Himalayas soon
+                                            [titleNoFormatting] => Beware North India! Earthquake of 8.2 magnitude might hit the Himalayas soon
+                                            [location] => 
+                                            [publisher] => India Today
+                                            [publishedDate] => Thu, 07 Jan 2016 02:30:00 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://indiatoday.intoday.in/story/earthquake-of-8-2-magnitude-might-hit-himalayas-soon-north-india-at-risk/1/564679.html&cid=52779024036013&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNEewOAO4ExpA4r3qarJPLGAxRdJsg
+                                            [language] => en
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.newindianexpress.com/nation/8.2-Magnitude-Earthquake-Might-Hit-Himalayas-North-India-at-Risk/2016/01/06/article3214452.ece
+                                            [url] => http%3A%2F%2Fwww.newindianexpress.com%2Fnation%2F8.2-Magnitude-Earthquake-Might-Hit-Himalayas-North-India-at-Risk%2F2016%2F01%2F06%2Farticle3214452.ece
+                                            [title] => 8.2 Magnitude <b>Earthquake</b> &#39;Might&#39; Hit Himalayas, North <b>India</b> at Risk
+                                            [titleNoFormatting] => 8.2 Magnitude Earthquake &#39;Might&#39; Hit Himalayas, North India at Risk
+                                            [location] => 
+                                            [publisher] => The New Indian Express
+                                            [publishedDate] => Wed, 06 Jan 2016 01:12:21 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.newindianexpress.com/nation/8.2-Magnitude-Earthquake-Might-Hit-Himalayas-North-India-at-Risk/2016/01/06/article3214452.ece&cid=52779024036013&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNG5LqMXkgTlb1b1j_n1AS__9sBBOw
+                                            [language] => en
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.express.co.uk/news/science/632046/Multiple-MEGA-EARTHQUAKES-strike-ANY-DAYmillions-risk-experts
+                                            [url] => http%3A%2F%2Fwww.express.co.uk%2Fnews%2Fscience%2F632046%2FMultiple-MEGA-EARTHQUAKES-strike-ANY-DAYmillions-risk-experts
+                                            [title] => Multiple &#39;MEGA <b>EARTHQUAKES</b>&#39; could strike ANY DAY putting millions at risk <b>...</b>
+                                            [titleNoFormatting] => Multiple &#39;MEGA EARTHQUAKES&#39; could strike ANY DAY putting millions at risk ...
+                                            [location] => 
+                                            [publisher] => Express.co.uk
+                                            [publishedDate] => Wed, 06 Jan 2016 04:49:06 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.express.co.uk/news/science/632046/Multiple-MEGA-EARTHQUAKES-strike-ANY-DAYmillions-risk-experts&cid=52779024036013&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNG-6s1DVnUOHR5viTQN0EZeuyzrAQ
+                                            [language] => en
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.ibtimes.co.in/earthquakes-8-magnitude-can-hit-north-india-any-time-govt-disaster-management-experts-warn-662140
+                                            [url] => http%3A%2F%2Fwww.ibtimes.co.in%2Fearthquakes-8-magnitude-can-hit-north-india-any-time-govt-disaster-management-experts-warn-662140
+                                            [title] => <b>Earthquakes</b> up to 8 magnitude can hit north <b>India</b> any time, govt disaster <b>...</b>
+                                            [titleNoFormatting] => Earthquakes up to 8 magnitude can hit north India any time, govt disaster ...
+                                            [location] => 
+                                            [publisher] => International Business Times, India Edition
+                                            [publishedDate] => Tue, 05 Jan 2016 22:29:12 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.ibtimes.co.in/earthquakes-8-magnitude-can-hit-north-india-any-time-govt-disaster-management-experts-warn-662140&cid=52779024036013&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNFlibTqnFY8aCDthQQ6n1rcxz0-sg
+                                            [language] => en
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.oneindia.com/india/beware-indians-massive-earthquake-likely-to-hit-north-india-himalayan-region-1975358.html
+                                            [url] => http%3A%2F%2Fwww.oneindia.com%2Findia%2Fbeware-indians-massive-earthquake-likely-to-hit-north-india-himalayan-region-1975358.html
+                                            [title] => Beware Indians: Massive <b>earthquake</b> likely to hit North <b>India</b>, Himalayan Region
+                                            [titleNoFormatting] => Beware Indians: Massive earthquake likely to hit North India, Himalayan Region
+                                            [location] => 
+                                            [publisher] => Oneindia
+                                            [publishedDate] => Wed, 06 Jan 2016 01:45:14 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.oneindia.com/india/beware-indians-massive-earthquake-likely-to-hit-north-india-himalayan-region-1975358.html&cid=52779024036013&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNEEXUDxo4ASDnpW0RuWwRksZbKrEQ
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => The devastation caused by the Sikkim <b>earthquake</b> of 2011 is indicator of what is in store for the region in terms of seismic activities and their impact. Needless to say, the high seismicity of the region is due to the collision tectonic between the <b>...</b>
+                            [unescapedUrl] => http://indianexpress.com/article/explained/manipur-quake-seismic-warning-for-the-north-east/
+                            [url] => http%3A%2F%2Findianexpress.com%2Farticle%2Fexplained%2Fmanipur-quake-seismic-warning-for-the-north-east%2F
+                            [title] => Manipur quake: Seismic warning for the North-east
+                            [titleNoFormatting] => Manipur quake: Seismic warning for the North-east
+                            [location] => 
+                            [publisher] => The Indian Express
+                            [publishedDate] => Tue, 05 Jan 2016 04:31:17 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://indianexpress.com/article/explained/manipur-quake-seismic-warning-for-the-north-east/&cid=52779024593545&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNFXrC3gd2nRenfda9FkbnxYvnUR7g
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://images.indianexpress.com/2016/01/manipur-earthquake-759.jpg
+                                    [tbUrl] => http://t1.gstatic.com/images?q=tbn:ANd9GcS1yoUXZssGWZKQPcIJKQoZy_Nat3CT-5HYeAYMAsq3hlasDK5vc6fuVGI
+                                    [originalContextUrl] => http://indianexpress.com/article/explained/manipur-quake-seismic-warning-for-the-north-east/
+                                    [publisher] => The Indian Express
+                                    [tbWidth] => 80
+                                    [tbHeight] => 44
+                                )
+
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=dAaEEzmJK-h2dOMhPu48Ul8m0PuNM&hl=en&ned=us
+                            [content] => Japan Meteorological Agency&#39;s <b>earthquake</b> and tsunami observations division director Yohei Hasegawa points at a graph of ground motion waveform data observed today in Japan during a news conference at the Japan Meteorological Agency in Tokyo on&nbsp;...
+                            [unescapedUrl] => http://indiatoday.intoday.in/story/north-korea-says-tested-hydrogen-nuclear-device/1/563464.html
+                            [url] => http%3A%2F%2Findiatoday.intoday.in%2Fstory%2Fnorth-korea-says-tested-hydrogen-nuclear-device%2F1%2F563464.html
+                            [title] => North Korea tests hydrogen bomb, causes 5.1 magnitude <b>earthquake</b>
+                            [titleNoFormatting] => North Korea tests hydrogen bomb, causes 5.1 magnitude earthquake
+                            [location] => 
+                            [publisher] => India Today
+                            [publishedDate] => Tue, 05 Jan 2016 19:57:48 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://indiatoday.intoday.in/story/north-korea-says-tested-hydrogen-nuclear-device/1/563464.html&cid=52779024250669&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNEoVuPdYaBs0B1XUP41C8Au_XUKvQ
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://media2.intoday.in/indiatoday/images/stories/north-korea_305_010616091713.jpg
+                                    [tbUrl] => http://t2.gstatic.com/images?q=tbn:ANd9GcSyoNBVL4ExGXAoE7_jfQsW-AHc0enGoV2LOO87WsQszGNDFWkaxXSHdqU
+                                    [originalContextUrl] => http://indiatoday.intoday.in/story/north-korea-says-tested-hydrogen-nuclear-device/1/563464.html
+                                    [publisher] => India Today
+                                    [tbWidth] => 80
+                                    [tbHeight] => 47
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.decodedscience.org/india-north-korea-oklahoma-earthquakes-31-december-2015-6-january-2016/57365
+                                            [url] => http%3A%2F%2Fwww.decodedscience.org%2Findia-north-korea-oklahoma-earthquakes-31-december-2015-6-january-2016%2F57365
+                                            [title] => <b>India</b>, North Korea and Oklahoma: <b>Earthquakes</b> 31 December 2015-6 January 2016
+                                            [titleNoFormatting] => India, North Korea and Oklahoma: Earthquakes 31 December 2015-6 January 2016
+                                            [location] => 
+                                            [publisher] => Decoded Science
+                                            [publishedDate] => Wed, 06 Jan 2016 04:56:15 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.decodedscience.org/india-north-korea-oklahoma-earthquakes-31-december-2015-6-january-2016/57365&cid=52779024250669&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNGJ0lsYqlV7-h75DmaAL3XFU1WLUw
+                                            [language] => en
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://timesofindia.indiatimes.com/world/rest-of-world/5-1-magnitude-earthquake-detected-close-to-North-Korea-nuclear-test-site/articleshow/50462013.cms
+                                            [url] => http%3A%2F%2Ftimesofindia.indiatimes.com%2Fworld%2Frest-of-world%2F5-1-magnitude-earthquake-detected-close-to-North-Korea-nuclear-test-site%2Farticleshow%2F50462013.cms
+                                            [title] => 5.1 magnitude <b>earthquake</b> detected close to North Korea nuclear test site
+                                            [titleNoFormatting] => 5.1 magnitude earthquake detected close to North Korea nuclear test site
+                                            [location] => 
+                                            [publisher] => Times of India
+                                            [publishedDate] => Tue, 05 Jan 2016 18:34:56 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://timesofindia.indiatimes.com/world/rest-of-world/5-1-magnitude-earthquake-detected-close-to-North-Korea-nuclear-test-site/articleshow/50462013.cms&cid=52779024250669&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNF7H5Ke56xK77CMR9YVC7EQdAttSQ
+                                            [language] => en
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.gizmodo.in/news/Earthquake-Detected-Near-North-Koreas-Nuclear-Test-Site/articleshow/50462128.cms
+                                            [url] => http%3A%2F%2Fwww.gizmodo.in%2Fnews%2FEarthquake-Detected-Near-North-Koreas-Nuclear-Test-Site%2Farticleshow%2F50462128.cms
+                                            [title] => <b>Earthquake</b> Detected Near North Korea&#39;s Nuclear Test Site
+                                            [titleNoFormatting] => Earthquake Detected Near North Korea&#39;s Nuclear Test Site
+                                            [location] => 
+                                            [publisher] => Gizmodo India
+                                            [publishedDate] => Tue, 05 Jan 2016 18:26:15 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.gizmodo.in/news/Earthquake-Detected-Near-North-Koreas-Nuclear-Test-Site/articleshow/50462128.cms&cid=52779024250669&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNE5lSWJr3lNIyDdQ3H4HKv9ZfIJhg
+                                            [language] => en
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://zeenews.india.com/news/world/earthquake-reported-near-north-korea-nuclear-test-site-possibly-man-made_1842101.html
+                                            [url] => http%3A%2F%2Fzeenews.india.com%2Fnews%2Fworld%2Fearthquake-reported-near-north-korea-nuclear-test-site-possibly-man-made_1842101.html
+                                            [title] => <b>Earthquake</b> reported near North Korea nuclear test site, possibly man-made
+                                            [titleNoFormatting] => Earthquake reported near North Korea nuclear test site, possibly man-made
+                                            [location] => 
+                                            [publisher] => Zee News
+                                            [publishedDate] => Tue, 05 Jan 2016 18:15:00 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://zeenews.india.com/news/world/earthquake-reported-near-north-korea-nuclear-test-site-possibly-man-made_1842101.html&cid=52779024250669&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNFBYgiHQ9sgdrJMc3ofYxvfOwcnTw
+                                            [language] => en
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.india.com/news/world/5-1-magnitude-artificial-earthquake-strikes-near-north-korea-nuclear-test-site-838769/
+                                            [url] => http%3A%2F%2Fwww.india.com%2Fnews%2Fworld%2F5-1-magnitude-artificial-earthquake-strikes-near-north-korea-nuclear-test-site-838769%2F
+                                            [title] => 5.1 magnitude &#39;artificial <b>earthquake</b>&#39; strikes near North Korea nuclear test site
+                                            [titleNoFormatting] => 5.1 magnitude &#39;artificial earthquake&#39; strikes near North Korea nuclear test site
+                                            [location] => 
+                                            [publisher] => India.com
+                                            [publishedDate] => Tue, 05 Jan 2016 19:33:09 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.india.com/news/world/5-1-magnitude-artificial-earthquake-strikes-near-north-korea-nuclear-test-site-838769/&cid=52779024250669&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNE1wrJbmPbFP_rKy4OBo8b9ZUymZg
+                                            [language] => en
+                                        )
+
+                                    [5] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://in.reuters.com/article/northkorea-nuclear-quake-idINKBN0UK06O20160106
+                                            [url] => http%3A%2F%2Fin.reuters.com%2Farticle%2Fnorthkorea-nuclear-quake-idINKBN0UK06O20160106
+                                            [title] => North Korea &#39;likely&#39; to have conducted nuclear test-South
+                                            [titleNoFormatting] => North Korea &#39;likely&#39; to have conducted nuclear test-South
+                                            [location] => 
+                                            [publisher] => Reuters
+                                            [publishedDate] => Tue, 05 Jan 2016 18:50:08 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://in.reuters.com/article/northkorea-nuclear-quake-idINKBN0UK06O20160106&cid=52779024250669&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNH0UOAYpDFdoyQx8DW1Ny2330I6vg
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => http://news.google.com/news/story?ncl=dKrW0S1h67Q4riMcfnXhwm_gVIukM&hl=en&ned=us
+                            [content] => Northeast <b>earthquake</b>: New Delhi rushes in 83 rescuers, doctors on way. Hours after an <b>earthquake</b> hit Northeast <b>India</b>, Home Minister Rajnath Singh said the government is actively monitoring the situation after the <b>earthquake</b> in the Northeastern region.
+                            [unescapedUrl] => http://indianexpress.com/article/india/india-news-india/northeast-earthquake-ndrf-teams-rushed-to-imphal-home-minister-rajnath-singh-takes-stock/
+                            [url] => http%3A%2F%2Findianexpress.com%2Farticle%2Findia%2Findia-news-india%2Fnortheast-earthquake-ndrf-teams-rushed-to-imphal-home-minister-rajnath-singh-takes-stock%2F
+                            [title] => Northeast <b>earthquake</b>: New Delhi rushes in 83 rescuers, doctors on way
+                            [titleNoFormatting] => Northeast earthquake: New Delhi rushes in 83 rescuers, doctors on way
+                            [location] => 
+                            [publisher] => The Indian Express
+                            [publishedDate] => Sun, 03 Jan 2016 20:34:08 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://indianexpress.com/article/india/india-news-india/northeast-earthquake-ndrf-teams-rushed-to-imphal-home-minister-rajnath-singh-takes-stock/&cid=52779021497085&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNFqX5pLya4tG8bzdMp6EK3sGHlBAA
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://images.indianexpress.com/2016/01/northeast-earthquake759.jpg
+                                    [tbUrl] => http://t0.gstatic.com/images?q=tbn:ANd9GcRNYS5nRrOvCiVSoL9LKKDOmIhzl8i82IMbq3Q_laT9DaQZ-iKTRI9htRg
+                                    [originalContextUrl] => http://indianexpress.com/article/india/india-news-india/northeast-earthquake-ndrf-teams-rushed-to-imphal-home-minister-rajnath-singh-takes-stock/
+                                    [publisher] => The Indian Express
+                                    [tbWidth] => 80
+                                    [tbHeight] => 44
+                                )
+
+                            [relatedStories] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.newsnation.in/article/107637-earthquake-northeast-india-home-minister-rajnath-takes-stock-situation.html
+                                            [url] => http%3A%2F%2Fwww.newsnation.in%2Farticle%2F107637-earthquake-northeast-india-home-minister-rajnath-takes-stock-situation.html
+                                            [title] => <b>Earthquake</b> in northeast <b>India</b>: Home Minister Rajnath takes stock of situation
+                                            [titleNoFormatting] => Earthquake in northeast India: Home Minister Rajnath takes stock of situation
+                                            [location] => 
+                                            [publisher] => News Nation
+                                            [publishedDate] => Sun, 03 Jan 2016 20:09:25 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.newsnation.in/article/107637-earthquake-northeast-india-home-minister-rajnath-takes-stock-situation.html&cid=52779021497085&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNH8uxOrJOjppElZzsMntmksgdLHRw
+                                            [language] => en
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [unescapedUrl] => http://www.newsgram.com/earthquake-hit-northeast-states-to-get-central-assistance-assured-rajnath-singh/
+                                            [url] => http%3A%2F%2Fwww.newsgram.com%2Fearthquake-hit-northeast-states-to-get-central-assistance-assured-rajnath-singh%2F
+                                            [title] => <b>Earthquake</b> hit northeast states to get central assistance, assures Rajnath Singh
+                                            [titleNoFormatting] => Earthquake hit northeast states to get central assistance, assures Rajnath Singh
+                                            [location] => 
+                                            [publisher] => http://www.newsgram.com/
+                                            [publishedDate] => Mon, 04 Jan 2016 02:06:42 -0800
+                                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.newsgram.com/earthquake-hit-northeast-states-to-get-central-assistance-assured-rajnath-singh/&cid=52779021497085&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNHiZrvbQ-8eaAPlfUYdw41oiCwHOw
+                                            [language] => en
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => Bullu Raj / AP. 5. Locals help soldiers remove debris from a damaged building. Bullu Raj / AP. 6. People look at a damaged building at a market place. Read Now: One Reported Dead in <b>Earthquake</b> Near <b>India</b>-Myanmar Border. Reuters. advertisement.
+                            [unescapedUrl] => http://www.nbcnews.com/slideshow/strong-earthquake-hits-northeast-india-n489636
+                            [url] => http%3A%2F%2Fwww.nbcnews.com%2Fslideshow%2Fstrong-earthquake-hits-northeast-india-n489636
+                            [title] => Strong <b>Earthquake</b> Hits Northeast <b>India</b>
+                            [titleNoFormatting] => Strong Earthquake Hits Northeast India
+                            [location] => 
+                            [publisher] => NBCNews.com
+                            [publishedDate] => Mon, 04 Jan 2016 03:34:53 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.nbcnews.com/slideshow/strong-earthquake-hits-northeast-india-n489636&cid=0&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNH4rf8iJh8mUoUyeKV6OK2wNBIiFg
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://media1.s-nbcnews.com/j/newscms/2016_01/1361936/ss-160104-india-earthquake-jpo-07_2f2076653f8fa34670cb568349b6f4d8.nbcnews-fp-1200-800.jpg
+                                    [tbUrl] => http://t3.gstatic.com/images?q=tbn:ANd9GcS5NvoZppUllhIfjIE9rCL58HBpckhUZO0iMPBUa5jGD140EeCOKrDJHqw
+                                    [originalContextUrl] => http://www.nbcnews.com/slideshow/strong-earthquake-hits-northeast-india-n489636
+                                    [publisher] => NBCNews.com
+                                    [tbWidth] => 80
+                                    [tbHeight] => 53
+                                )
+
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => Emergency services respond after a 6.7 magnitude <b>earthquake</b> hit <b>India&#39;s</b> remote northeast region before dawn on Monday, killing at least four people, injuring 100 others and damaging several buildings. <b>India&#39;s</b> Meteorological Department says the <b>...</b>
+                            [unescapedUrl] => http://www.theguardian.com/world/video/2016/jan/04/aftermath-of-earthquake-in-north-east-india-video
+                            [url] => http%3A%2F%2Fwww.theguardian.com%2Fworld%2Fvideo%2F2016%2Fjan%2F04%2Faftermath-of-earthquake-in-north-east-india-video
+                            [title] => Aftermath of <b>earthquake</b> in north-east <b>India</b> – video
+                            [titleNoFormatting] => Aftermath of earthquake in north-east India – video
+                            [location] => 
+                            [publisher] => The Guardian
+                            [publishedDate] => Mon, 04 Jan 2016 01:56:15 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.theguardian.com/world/video/2016/jan/04/aftermath-of-earthquake-in-north-east-india-video&cid=0&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNFmapDCveuXS6k7IjhsmrlIEC5XIA
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://static.guim.co.uk/sys-images/Guardian/Pix/audio/video/2016/1/4/1451902281077/KP_1197418_crop_1200x720.jpg
+                                    [tbUrl] => http://t3.gstatic.com/images?q=tbn:ANd9GcS3c1DtHDHEgKX69LxkPY-1nroa_Vmrx7ebeHEqHCTdbtMrpSyzrTojeakr
+                                    [originalContextUrl] => http://www.theguardian.com/world/video/2016/jan/04/aftermath-of-earthquake-in-north-east-india-video
+                                    [publisher] => The Guardian
+                                    [tbWidth] => 80
+                                    [tbHeight] => 48
+                                )
+
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [GsearchResultClass] => GnewsSearch
+                            [clusterUrl] => 
+                            [content] => Three days after an <b>earthquake</b> with a magnitude of 6.8 struck Manipur, Tamenglong, which was at the epicentre of the tremor, is still in shock. The affected areas in the district have poor road and mobile connectivity, resulting in people struggling to <b>...</b>
+                            [unescapedUrl] => http://www.hindustantimes.com/india/confusion-anger-in-manipur-earthquake-epicentre-tamenglong/story-nZ9ryPxbUboOSVDuNzi44J.html
+                            [url] => http%3A%2F%2Fwww.hindustantimes.com%2Findia%2Fconfusion-anger-in-manipur-earthquake-epicentre-tamenglong%2Fstory-nZ9ryPxbUboOSVDuNzi44J.html
+                            [title] => Confusion, anger in Manipur <b>earthquake</b> epicentre Tamenglong
+                            [titleNoFormatting] => Confusion, anger in Manipur earthquake epicentre Tamenglong
+                            [location] => 
+                            [publisher] => Hindustan Times
+                            [publishedDate] => Wed, 06 Jan 2016 05:32:15 -0800
+                            [signedRedirectUrl] => http://news.google.com/news/url?sa=T&ct2=us&fd=S&url=http://www.hindustantimes.com/india/confusion-anger-in-manipur-earthquake-epicentre-tamenglong/story-nZ9ryPxbUboOSVDuNzi44J.html&cid=52779024980374&ei=gEiOVuj3LoeNqgWtzbPQDQ&usg=AFQjCNEreToq71GriUwFULPNURX8q2F2Iw
+                            [language] => en
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/01/06/Pictures/india-earthquake_d6e64542-b479-11e5-9860-1d91036943d1.jpg
+                                    [tbUrl] => http://t1.gstatic.com/images?q=tbn:ANd9GcTOzWUfPu7y3VfQ-8yoRwC5Ml9FLaNjhJ9B2Pk86LVrDgEE7QeV4r36FVA
+                                    [originalContextUrl] => http://www.hindustantimes.com/india/confusion-anger-in-manipur-earthquake-epicentre-tamenglong/story-nZ9ryPxbUboOSVDuNzi44J.html
+                                    [publisher] => Hindustan Times
+                                    [tbWidth] => 80
+                                    [tbHeight] => 60
+                                )
+
+                        )
+
+                )
+
+            [cursor] => stdClass Object
+                (
+                    [pages] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [start] => 0
+                                    [label] => 1
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [start] => 8
+                                    [label] => 2
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [start] => 16
+                                    [label] => 3
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [start] => 24
+                                    [label] => 4
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [start] => 32
+                                    [label] => 5
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [start] => 40
+                                    [label] => 6
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [start] => 48
+                                    [label] => 7
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [start] => 56
+                                    [label] => 8
+                                )
+
+                        )
+
+                    [estimatedResultCount] => 3242369
+                    [currentPageIndex] => 0
+                    [moreResultsUrl] => http://news.google.com/nwshp?oe=utf8&ie=utf8&source=uds&q=Earthquake+India&hl=en&start=0
+                )
+
+        )
+
+    [responseDetails] => 
+    [responseStatus] => 200
+)
+
